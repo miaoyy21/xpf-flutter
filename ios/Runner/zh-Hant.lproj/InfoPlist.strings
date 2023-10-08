@@ -1,0 +1,4 @@
+CFBundleDisplayName = "XPF帳號檔案加密器";
+NSAppleMusicUsageDescription = "訪問你本地音樂庫的檔案，上傳至文件櫃";
+NSPhotoLibraryAddUsageDescription = "將帳號資訊截圖保存到你的本地";
+NSPhotoLibraryUsageDescription = "訪問本地相册，選擇圖片或視頻進行上傳";

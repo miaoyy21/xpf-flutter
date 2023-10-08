@@ -1,0 +1,7 @@
+{
+  "mode": "release",
+  "version": "1.0.3",
+  "host": "www.nsmei.com",
+  "port": "443",
+  "channel": "iOS"
+}

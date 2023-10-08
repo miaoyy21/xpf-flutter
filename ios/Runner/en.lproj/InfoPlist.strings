@@ -1,0 +1,4 @@
+CFBundleDisplayName = "XPF Encryptor";
+NSAppleMusicUsageDescription = "Access the files of your local music library and upload them to the file cabinet";
+NSPhotoLibraryAddUsageDescription = "Save the screenshot of account information to your local";
+NSPhotoLibraryUsageDescription = "Visit the local album and select pictures or videos to upload";
