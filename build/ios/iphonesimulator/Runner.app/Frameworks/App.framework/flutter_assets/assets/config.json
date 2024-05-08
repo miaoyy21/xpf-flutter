@@ -1,7 +1,0 @@
-{
-  "mode": "release",
-  "version": "1.0.3",
-  "host": "127.0.0.1",
-  "port": "9966",
-  "channel": "iOS"
-}
